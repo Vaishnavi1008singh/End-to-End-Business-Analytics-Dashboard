@@ -1,0 +1,11 @@
+
+Order_ID,Customer_ID,City,Product,Category,Quantity,Sales,Profit,Order_Date
+1001,201,Delhi,Laptop,Electronics,1,55000,6000,2024-01-05
+1002,202,Mumbai,Phone,Electronics,2,40000,5000,2024-01-08
+1003,203,Bangalore,Keyboard,Accessories,3,6000,1200,2024-01-10
+1004,204,Delhi,Monitor,Electronics,1,15000,2000,2024-01-12
+1005,205,Pune,Headphones,Accessories,2,8000,1500,2024-01-15
+1006,206,Chennai,Tablet,Electronics,1,30000,3500,2024-01-18
+1007,207,Hyderabad,Mouse,Accessories,4,4000,800,2024-01-20
+1008,208,Delhi,Printer,Electronics,1,12000,1800,2024-01-22
+1009,209,Mumbai,Camera,Electronics,1,45000,5500,2024-01-25
