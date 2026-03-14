@@ -29,14 +29,11 @@ Companies need to analyze sales data to understand revenue trends, product perfo
 
 ## Folder Structure
 End_to_End_Business_Analytics_Dashboard
-│
-├── Dataset
-│   └── business_sales_data.csv
-├── SQL
-│   └── business_analysis_queries.sql
-├── Python
-│   └── business_analysis.py
-└── README.md
+│Dataset - business_sales_data.csv
+| SQL- business_analysis_queries.sql
+| Python - business_analysis.py
+| Power BI - Business_analytics_dashboard.pbix
+| README.md
 
 ## Author
 Vaishnavi Singh
